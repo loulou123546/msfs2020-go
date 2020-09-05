@@ -1,3 +1,12 @@
+# Why this fork ?
+
+This fork is based on 0.0.7 version of [https://github.com/lian/msfs2020-go](lian/msfs2020-go) who make an companion to help while your flight  
+This version is made for an virtual airline company, developed originaly by me for the [https://www.twitch.tv/sirtas11](Sirtas11 Stream).  
+
+Below, the original ReadMe
+
+===
+
 # msfs2020-go
 
 simconnect package [msfs2020-go/simconnect](simconnect/) connects to microsoft flight simulator 2020 using golang.
